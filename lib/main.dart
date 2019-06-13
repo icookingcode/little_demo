@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:little_demo/pages/route/first_page.dart';
 
 import 'bottom_app_bar_widget.dart';
 import 'bottom_navigation_widget.dart';
@@ -15,7 +16,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.lightBlue
       ),
-      home: BottomAppBarWidget(),
+      home: FirstPage(),
 
     );
   }

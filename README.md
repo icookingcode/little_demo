@@ -24,3 +24,8 @@
   
 ## 保持页面状态 05
   * 小部件 添加 with AutomaticKeepAliveClientMixin 可保持状态不被销毁
+  
+## 不简单的搜索条 06
+  * 自定义搜索栏 extends SearchDelegate
+  * 涉及到的小部件： RichText
+

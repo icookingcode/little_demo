@@ -14,3 +14,12 @@
   * 缩放效果 ScaleRoute
   * 旋转+缩放 RotationScaleRoute
   * 左进左出的路由动画效果 SlideRoute
+  
+## 磨砂玻璃效果 04
+  * ConstrainedBox 约束性小部件,添加额外的约束条件在child上
+  * ClipRect 可裁切的矩形
+  * BackdropFilter 背景过滤器
+    * filter: ImageFilter.blur
+  * Opacity 控制透明度
+  
+

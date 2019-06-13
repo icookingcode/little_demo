@@ -22,4 +22,5 @@
     * filter: ImageFilter.blur
   * Opacity 控制透明度
   
-
+## 保持页面状态 05
+  * 小部件 添加 with AutomaticKeepAliveClientMixin 可保持状态不被销毁

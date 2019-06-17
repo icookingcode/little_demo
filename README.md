@@ -28,4 +28,8 @@
 ## 不简单的搜索条 06
   * 自定义搜索栏 extends SearchDelegate
   * 涉及到的小部件： RichText
+  
+## 流式布局 07
+  * GestureDetector 手势识别
+  * MediaQuery.of(context).size 获取屏幕尺寸
 

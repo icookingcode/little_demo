@@ -37,5 +37,15 @@
   * ExpansionTile 节展开闭合控件
   * ExpansionPanelList + ExpansionPanel 节展开闭合列表 注：需放置在SingleChildScrollView中使用
   
-## 路径裁切和二次贝塞尔曲线
+## 路径裁切和二次贝塞尔曲线 09
+  * ClipPath 路径裁切
+  * 贝塞尔曲线 实现波浪效果
+  * 右滑返回上一页效果
+  * Tooltip 轻提示效果控件
+  * Draggable 拖拽控件
+  
+## APP闪屏动画 10
+  * 使用动画实现
+  
+
 

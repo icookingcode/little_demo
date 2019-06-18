@@ -44,7 +44,7 @@
   * Tooltip 轻提示效果控件
   * Draggable 拖拽控件
   
-## APP闪屏动画 10
+## APP闪屏动画 
   * 使用动画实现
   
 
